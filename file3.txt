@@ -1,0 +1,2 @@
+1. async funcion cannot be used on main function.
+
